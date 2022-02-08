@@ -3,7 +3,7 @@ Tableaux
 
 Les tableaux sont très versatiles en PHP et sont une part important de son environnement. Voici un exercice vous permettant de toucher à une infime partie de ces fonctionnalités.
 
-Suivez les instructions qui se trouvent sur la version fonctionnelle du projet (https://web4.tim-cstj.ca/tableaux).
+Suivez les instructions qui se trouvent sur la version fonctionnelle du projet (https://web4.tim-cstj.ca/projets/tableaux).
 
 C'est la fonction `trace` (importée du fichier `debug.inc.php`) qui fait afficher les rectangles jaunes.
 
